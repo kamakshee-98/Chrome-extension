@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(rgb(211, 211, 77),gold);
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+#getTabTitle{
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    background-image: linear-gradient(to left,gold,rgb(151, 141, 141),yellow);
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: 23px;
+    margin-bottom: 5px;
+    
+}
+#tabTitle{
+    margin-top: 10px;
+    text-align: center;
+}
